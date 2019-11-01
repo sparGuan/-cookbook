@@ -54,7 +54,7 @@
     "koa2-cors": "^2.0.1",
     "lodash": "^4.14.113",
     "moment": "^2.22.2",
-    "mongoose": "^4.13.14",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-auto-increment-fix": "^5.0.2",
     "mongoose-paginate": "^5.0.3",
